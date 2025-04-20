@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF22FD3-19F4-4B15-A2FE-E4350228CDEA}|docker-compose.dcproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DBF22FD3-19F4-4B15-A2FE-E4350228CDEA}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF22FD3-19F4-4B15-A2FE-E4350228CDEA}|docker-compose.dcproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DBF22FD3-19F4-4B15-A2FE-E4350228CDEA}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF22FD3-19F4-4B15-A2FE-E4350228CDEA}|docker-compose.dcproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBF22FD3-19F4-4B15-A2FE-E4350228CDEA}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\models\\mystoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\models\\mystoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\automapper\\product\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\automapper\\product\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\se160244.productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\se160244.productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\repositories\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\repositories\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\repositories\\implement\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\repositories\\implement\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\repositories\\implement\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\repositories\\implement\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\contract\\request\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\contract\\request\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\contract\\request\\createcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\contract\\request\\createcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\contract\\request\\updatecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\contract\\request\\updatecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\contract\\request\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\contract\\request\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.api\\contract\\request\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D8FED-A93D-4EC1-AAA6-E79BB3C2C77F}|SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj|solutionrelative:se160244.productmanagement.api\\contract\\request\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|d:\\chauhien\\fpt\\sum2024\\prn231\\labs\\se160244.productmanagement.api\\se160244.productmanagement.repo\\migrations\\20250327155542_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285B667-1AEA-421E-A83B-12BBD42B5FA8}|SE160244.ProductManagement.Repo\\SE160244.ProductManagement.Repo.csproj|solutionrelative:se160244.productmanagement.repo\\migrations\\20250327155542_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-20T17:08:59.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T17:08:57.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-13T15:39:36.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250327155542_initiall.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Migrations\\20250327155542_initiall.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Migrations\\20250327155542_initiall.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Migrations\\20250327155542_initiall.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Migrations\\20250327155542_initiall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:55:42.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\appsettings.json",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\appsettings.json",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T15:02:52.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Program.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Program.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwIUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Implement\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Repositories\\Implement\\GenericRepository.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Implement\\GenericRepository.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Repositories\\Implement\\GenericRepository.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwv1YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Repositories\\Interface\\IGenericRepository.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Repositories\\Interface\\IGenericRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyStoreDBContext.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Models\\MyStoreDBContext.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Models\\MyStoreDBContext.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Models\\MyStoreDBContext.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Models\\MyStoreDBContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvzsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Implement\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Repositories\\Implement\\UnitOfWork.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Implement\\UnitOfWork.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Repositories\\Implement\\UnitOfWork.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Models\\Category.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Models\\Category.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\AutoMapper\\Product\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\AutoMapper\\Product\\ProductMapper.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\AutoMapper\\Product\\ProductMapper.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\AutoMapper\\Product\\ProductMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Models\\Product.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Models\\Product.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\appsettings.Development.json",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\appsettings.Development.json",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T15:02:52.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.Repo\\Repositories\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.Repo\\Repositories\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.Repo\\Repositories\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QueryParameters.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\QueryParameters.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Contract\\request\\QueryParameters.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\QueryParameters.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Contract\\request\\QueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCategoryRequest.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\CreateCategoryRequest.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Contract\\request\\CreateCategoryRequest.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\CreateCategoryRequest.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Contract\\request\\CreateCategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Contract\\request\\UpdateProductRequest.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\UpdateProductRequest.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Contract\\request\\UpdateProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateCategoryRequest.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\UpdateCategoryRequest.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Contract\\request\\UpdateCategoryRequest.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\UpdateCategoryRequest.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Contract\\request\\UpdateCategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\Contract\\request\\CreateProductRequest.cs",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\Contract\\request\\CreateProductRequest.cs",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\Contract\\request\\CreateProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:52.636Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 33,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SE160244.ProductManagement.API.csproj",
+              "DocumentMoniker": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj",
+              "RelativeDocumentMoniker": "SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj",
+              "ToolTip": "D:\\ChauHien\\FPT\\Sum2024\\PRN231\\Labs\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj",
+              "RelativeToolTip": "SE160244.ProductManagement.API\\SE160244.ProductManagement.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T15:02:52.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿version: '3.4'
+
+services:
+  se160244.productmanagement.api:
+    container_name: ProductManagement
+    build:
+      context: .
+      dockerfile: SE160244.ProductManagement.API/Dockerfile
+    image: ${DOCKER_REGISTRY-}se160244productmanagementapi
+    networks:
+      - demo
+    ports:
+      - "8444:443"  
+      - "8085:80"   
+    volumes:
+      - /root/.aspnet/https:/https:ro
+networks:
+  demo:
+    driver: bridge
