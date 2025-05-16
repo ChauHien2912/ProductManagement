@@ -138,3 +138,4 @@ D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.Prod
 D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.API\obj\Debug\net6.0\SE160244.ProductManagement.API.pdb
 D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.API\obj\Debug\net6.0\SE160244.ProductManagement.API.genruntimeconfig.cache
 D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.API\obj\Debug\net6.0\ref\SE160244.ProductManagement.API.dll
+D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.API\obj\Debug\net6.0\SE160244.ProductManagement.API.sourcelink.json

@@ -26,3 +26,4 @@ D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.Prod
 D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.Repo\obj\Debug\net6.0\SE160244.ProductManagement.Repo.pdb
 D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.Repo\obj\Debug\net6.0\SE160244.ProductManagement.Repo.genruntimeconfig.cache
 D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.Repo\obj\Debug\net6.0\ref\SE160244.ProductManagement.Repo.dll
+D:\ChauHien\FPT\Sum2024\PRN231\Labs\SE160244.ProductManagement.API\SE160244.ProductManagement.Repo\obj\Debug\net6.0\SE160244.ProductManagement.Repo.sourcelink.json
