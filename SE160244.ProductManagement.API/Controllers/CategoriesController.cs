@@ -106,7 +106,7 @@ namespace SE160244.ProductManagement.API.Controllers
             }
 
              _uow.CategoryRepository.Delete(existingcategory);
-            return Ok(new { Message = $"Category with id {id} has been deleted by chauhen." });
+            return Ok(new { Message = $"Category with id {id} has been deleted by chauhen. hien dep trai" });
         }
         
     }
