@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  Deploy-SE160244.ProductManagement.API-Container:
+  Deploy_SE160244.ProductManagement.API_Container:
     runs-on: self-hosted
     steps:
       - name: Checkout code
